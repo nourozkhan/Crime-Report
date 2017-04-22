@@ -1,0 +1,34 @@
+#crimes{
+        margin: 20px;
+        padding: 20px;
+    display: inline-block;
+    
+    text-align: center;
+    border: 5px solid skyblue;
+    font-family: sans-serif;
+}
+
+#missing{
+     margin: 20px;
+        padding: 20px;
+    display: inline-block;
+    text-align: center;
+    border: 5px solid skyblue;
+    font-family: sans-serif;
+}
+
+#complaint{
+ margin: 20px;
+        padding: 20px;
+    display: inline-block;
+    text-align: center;
+    border: 5px solid skyblue;
+    font-family: sans-serif;
+}
+.divs{
+     margin: 20px;
+        padding: 20px;
+    text-align: center;
+    border: 5px solid skyblue;
+    font-family: sans-serif;
+}
